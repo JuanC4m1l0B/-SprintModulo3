@@ -1,6 +1,6 @@
 # -SprintModulo3
 
-SprintModulo3
+
 Deben crear un usuario con privilegios para crear, eliminar y modificar tablas, insertar registros.
 Nuestra tienda virtual ha crecido mucho estas últimas semanas. No solo aumentó significativamente el número de colaboradores y usuarios, sino que también los productos disponibles. En este sentido, nos pidieron que diseñemos una base de datos capaz de satisfacer la creciente demanda de información y datos.
 TeLoVendo recibe productos de diferentes proveedores para comercializarlos. Cada proveedor debe informarnos el nombre del representante legal, su nombre corporativo, al menos dos teléfonos de contacto (y el nombre de quien recibe las llamadas), la categoría de sus productos (solo nos pueden indicar una categoría) y un correo electrónico para enviar la factura. Sabemos que la mayoría de los proveedores son de productos electrónicos. Agregue 5 proveedores a la base de datos. En general, los proveedores venden muchos productos.
